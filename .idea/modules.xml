@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Kylin-secret.iml" filepath="$PROJECT_DIR$/.idea/Kylin-secret.iml" />
       <module fileurl="file://$PROJECT_DIR$/kylin-secret-cloud/kylin-secret-cloud.iml" filepath="$PROJECT_DIR$/kylin-secret-cloud/kylin-secret-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kylin-secret-cloud/server-api/server-api.iml" filepath="$PROJECT_DIR$/kylin-secret-cloud/server-api/server-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kylin-secret-cloud/server-entity/server-entity.iml" filepath="$PROJECT_DIR$/kylin-secret-cloud/server-entity/server-entity.iml" />
       <module fileurl="file://$PROJECT_DIR$/kylin-secret-cloud/server-eureka/server-eureka.iml" filepath="$PROJECT_DIR$/kylin-secret-cloud/server-eureka/server-eureka.iml" />
     </modules>
   </component>

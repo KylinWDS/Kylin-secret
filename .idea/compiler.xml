@@ -7,17 +7,23 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="kylin-secret-cloud" />
+        <module name="server-api" />
+        <module name="server-entity" />
         <module name="server-eureka" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="kylin-secret-cloud" target="1.8" />
+      <module name="server-api" target="1.8" />
+      <module name="server-entity" target="1.8" />
       <module name="server-eureka" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="kylin-secret-cloud" options="-parameters" />
+      <module name="server-api" options="-parameters" />
+      <module name="server-entity" options="-parameters" />
       <module name="server-eureka" options="-parameters" />
     </option>
   </component>
