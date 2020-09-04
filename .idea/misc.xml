@@ -16,6 +16,9 @@
         <option value="$PROJECT_DIR$/kylin-secret-cloud/server-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/kylin-secret-cloud/server-entity/pom.xml" />
         <option value="$PROJECT_DIR$/kylin-secret-cloud/server-api/pom.xml" />
+        <option value="$PROJECT_DIR$/kylin-secret-cloud/server-userlogin/pom.xml" />
+        <option value="$PROJECT_DIR$/kylin-secret-cloud/server-userlogin2/pom.xml" />
+        <option value="$PROJECT_DIR$/kylin-secret-cloud/web-userlogin/pom.xml" />
       </list>
     </option>
   </component>

@@ -7,6 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/kylin-secret-cloud/server-api/server-api.iml" filepath="$PROJECT_DIR$/kylin-secret-cloud/server-api/server-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/kylin-secret-cloud/server-entity/server-entity.iml" filepath="$PROJECT_DIR$/kylin-secret-cloud/server-entity/server-entity.iml" />
       <module fileurl="file://$PROJECT_DIR$/kylin-secret-cloud/server-eureka/server-eureka.iml" filepath="$PROJECT_DIR$/kylin-secret-cloud/server-eureka/server-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kylin-secret-cloud/server-userlogin/server-userlogin.iml" filepath="$PROJECT_DIR$/kylin-secret-cloud/server-userlogin/server-userlogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kylin-secret-cloud/server-userlogin2/server-userlogin (1).iml" filepath="$PROJECT_DIR$/kylin-secret-cloud/server-userlogin2/server-userlogin (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/kylin-secret-cloud/server-userlogin2/server-userlogin2.iml" filepath="$PROJECT_DIR$/kylin-secret-cloud/server-userlogin2/server-userlogin2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kylin-secret-cloud/web-userlogin/web-userlogin.iml" filepath="$PROJECT_DIR$/kylin-secret-cloud/web-userlogin/web-userlogin.iml" />
     </modules>
   </component>
 </project>
